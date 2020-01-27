@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{H0SL:function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return u("cMU6")}])},cMU6:function(n,t,u){"use strict";u.r(t);var i=u("q1tI"),a=u.n(i).a.createElement;t.default=function(){return a("div",null,"Faris Rasa Badut")}}},[["H0SL",0,1]]]);
